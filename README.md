@@ -1,9 +1,13 @@
 # Lumen PHP Framework
 
 ## Installation 
-### Via Lumen Installer
-1. composer global require "laravel/lumen-installer"
-2. lumen new BlogApi
+### Via Lumen Installer (run the following command)
+```
+> composer global require "laravel/lumen-installer"
+```
+```
+> lumen new BlogApi
+```
 ### Via Composer 
 > composer create-project --prefer-dist laravel/lumen blog
 ## Run the development server
